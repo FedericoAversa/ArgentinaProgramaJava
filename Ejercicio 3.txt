@@ -1,4 +1,0 @@
-Este es el punto 3 de la guia de ejercicios de la clase 2.
-Se modifica el archivodesde la interfaz web de Github para resolver ejercicio 5.
-<<<<<<< Updated upstream
-Se modifican los 2 archivos (web y local) para resolver el puNto 7
